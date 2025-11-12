@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Enhancer",
+  "description": "A powerful image enhancement application that uses the Gemini API to apply predefined filters or custom user prompts to uploaded images, providing a side-by-side comparison and download functionality.",
+  "requestFramePermissions": []
+}
